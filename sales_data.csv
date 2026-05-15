@@ -1,0 +1,11 @@
+"CustomerID","Region","Gender","Product","Sales","Quantity"
+1,"North","Male","Laptop",55000,1
+2,"South","Female","Phone",20000,2
+3,"East","Male","Tablet",15000,1
+4,"West","Female","Laptop",60000,1
+5,"North","Female","Phone",22000,1
+6,"South","Male","Tablet",18000,2
+7,"East","Female","Laptop",75000,1
+8,"West","Male","Phone",25000,3
+9,"North","Male","Tablet",17000,1
+10,"South","Female","Laptop",80000,1
